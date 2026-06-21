@@ -1,6 +1,10 @@
 ## 👋 Hi there, I'm Mugilan – Aspiring Data Analyst & AI Enthusiast
 
-<img align="right" width="370" height="290" src="assets/BANNER.gif"> 
+
+
+![](https://komarev.com/ghpvc/?username=mugilansGIT\&label=Profile+Views)
+
+
 
 ## 👨‍💻 About Me
 
@@ -8,28 +12,54 @@ Aspiring Data Analyst and AI Enthusiast passionate about building intelligent ap
 
 Currently exploring DSA, AI-powered workflows, and real-world ML projects.
 
-- B.Tech AI/DS Engineering student at
 
-  [<img src="assets/images.png" height="50">](https://act.edu.in/)
-  
-  
+🎓 B.Tech Artificial Intelligence & Data Science Student at
+
+[<img src="assets/images.png" height="50" alt="Agni College of Technology">](https://act.edu.in/)
+
+**Agni College of Technology**
+
+<br>
+
 ## 🌐 Connect With Me
 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mugian-t-k/) <br/>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mugian-t-k/)
 
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mugilan2006tk@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mugilan2006tk@gmail.com)
 
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  
+##
+<img align="right" width="390" height="370" src="assets/BANNER.gif">
 
-## 💻 Skills
+### 🛠️ Tech Stack
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+<p align="left">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
+
+<br><br>
+
+### 💻 Skills
+
+<p align= "left">
+<img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
 <img width="50" height="50" src="https://img.icons8.com/nolan/64/git.png" alt="git"/>
 <img width="50" height="50" src="https://img.icons8.com/neon/96/github.png" alt="github"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+</p>
+<br><br>
+
+##
+<br><br> 
 
 ## 🚀 Featured Project
 
@@ -41,16 +71,22 @@ AI-powered lip reading system that converts silent videos into text transcripts 
 
 **Tech Stack:** PyTorch, OpenCV, MediaPipe, Streamlit
 
-**Key Highlights**
-- Trained on ~33,000 GRID Corpus samples
-- Automatic lip detection and extraction
-- Deep learning based speech prediction
-- Subtitle (.srt) generation
-- Interactive Streamlit web application
+### Key Highlights
 
-🔗 Repository: [AI Lip Reader Repository](https://github.com/mugilansGIT/AI-Lip-Reader)
+* Trained on ~33,000 GRID Corpus samples
+* Automatic lip detection and extraction
+* Deep learning-based speech prediction
+* Subtitle (.srt) generation
+* Interactive Streamlit web application
 
-🎥 Demo: [Watch Demo Video](https://drive.google.com/file/d/1yTKMR-n57uhGuUfvYZJBQRt0HNGkx8q4/view?usp=sharing)
+🔗 **Repository:**
+[AI Lip Reader Repository](https://github.com/mugilansGIT/AI-Lip-Reader)
+
+🎥 **Demo:**
+[Watch Demo Video](https://drive.google.com/file/d/1yTKMR-n57uhGuUfvYZJBQRt0HNGkx8q4/view?usp=sharing)
+
+---
+<br><br> 
 
 ## 🏆 Achievements
 
@@ -60,21 +96,29 @@ AI-powered lip reading system that converts silent videos into text transcripts 
 * 🥇 Winner – Borderland Decrypt, Meenakshi Sundararajan Engineering College
 * 🥇 Winner – Craftathon Hackathon, Gandhinagar University
 
+---
+
 ## 📜 Certifications
 
 * 🎓 Data Science & Machine Learning Internship Certification – YBI Foundation
 * 🎓 Elite Certificate – Software Testing, NPTEL
 
+---
+<br> <br>
 
-[![Mugilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugilansGIT)](https://github.com/mugilansGIT/github-readme-stats)
+## 📊 GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugilansGIT&layout=compact)](...)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mugilansGIT&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilansGIT&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
+<br>
 
-[![Mugilan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mugilansGIT&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mugilan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mugilansGIT\&bg_color=000000\&color=ffffff\&line=00ff00\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## ♟️ Fun Fact
 
-Chess is one of my favorite hobbies. I enjoy exploring openings, solving puzzles, and improving my tactical play. The strategic thinking required in chess has helped me develop a more analytical approach to coding and data science.
-
-![](https://komarev.com/ghpvc/?username=mugilansGIT)
+Chess is one of my favorite hobbies. I enjoy exploring openings, solving puzzles, and improving my tactical play. The strategic thinking required in chess has helped me develop a more analytical approach to coding, machine learning, and problem-solving.
