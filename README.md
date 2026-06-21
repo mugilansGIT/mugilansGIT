@@ -28,6 +28,29 @@
 <img width="50" height="50" src="https://img.icons8.com/neon/96/github.png" alt="github"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 
+## 🚀 Featured Project
+
+### 🎯 AI Lip Reader
+
+<img src="assets/prediction_output.png" width="800">
+
+AI-powered lip reading system that converts silent videos into text transcripts and downloadable SRT subtitle files.
+
+**Tech Stack:** PyTorch, OpenCV, MediaPipe, Streamlit
+
+**Key Highlights**
+- Trained on ~33,000 GRID Corpus samples
+- Automatic lip detection and extraction
+- Deep learning based speech prediction
+- Subtitle (.srt) generation
+- Interactive Streamlit web application
+
+🔗 Repository:
+https://github.com/mugilansGIT/AI-Lip-Reader
+
+🎥 Demo:
+https://drive.google.com/file/d/1yTKMR-n57uhGuUfvYZJBQRt0HNGkx8q4/view?usp=sharing
+
 
 
 [![Mugilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugilansGIT)](https://github.com/mugilansGIT/github-readme-stats)
