@@ -1,16 +1,19 @@
-## Hi there 👋 It's me Mugilan, Aspiring Data Analyst
+## 👋 Hi there, I'm Mugilan – Aspiring Data Analyst & AI Enthusiast
 
 <img align="right" width="370" height="290" src="assets/BANNER.gif"> 
 
--  I’m currently learning DSA and Integrating AI to my workflow
+## 👨‍💻 About Me
 
-- Engineeing at
+Aspiring Data Analyst and AI Enthusiast passionate about building intelligent applications using Machine Learning, Computer Vision, and Data Analytics.
+
+Currently exploring DSA, AI-powered workflows, and real-world ML projects.
+
+- B.Tech AI/DS Engineering student at
 
   [<img src="assets/images.png" height="50">](https://act.edu.in/)
   
-- ♟️ Fun fact: I play Chess.
   
-- Social Presence
+## 🌐 Connect With Me
 
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mugian-t-k/) <br/>
 
@@ -45,15 +48,33 @@ AI-powered lip reading system that converts silent videos into text transcripts 
 - Subtitle (.srt) generation
 - Interactive Streamlit web application
 
-🔗 Repository:
-https://github.com/mugilansGIT/AI-Lip-Reader
+🔗 Repository: [AI Lip Reader Repository](https://github.com/mugilansGIT/AI-Lip-Reader)
 
-🎥 Demo:
-https://drive.google.com/file/d/1yTKMR-n57uhGuUfvYZJBQRt0HNGkx8q4/view?usp=sharing
+🎥 Demo: [Watch Demo Video](https://drive.google.com/file/d/1yTKMR-n57uhGuUfvYZJBQRt0HNGkx8q4/view?usp=sharing)
 
+## 🏆 Achievements
+
+* 🥇 Winner – Cybertrix 2025, St. Joseph's Institute of Technology
+* 🥇 Winner – Invente 2025, Shiv Nadar University
+* 🥇 Winner – Mind Spark X, Sriram Engineering College
+* 🥇 Winner – Borderland Decrypt, Meenakshi Sundararajan Engineering College
+* 🥇 Winner – Craftathon Hackathon, Gandhinagar University
+
+## 📜 Certifications
+
+* 🎓 Data Science & Machine Learning Internship Certification – YBI Foundation
+* 🎓 Elite Certificate – Software Testing, NPTEL
 
 
 [![Mugilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugilansGIT)](https://github.com/mugilansGIT/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugilansGIT&layout=compact)](...)
+
 
 [![Mugilan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mugilansGIT&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## ♟️ Fun Fact
+
+Chess is one of my favorite hobbies. I enjoy exploring openings, solving puzzles, and improving my tactical play. The strategic thinking required in chess has helped me develop a more analytical approach to coding and data science.
+
+![](https://komarev.com/ghpvc/?username=mugilansGIT)
