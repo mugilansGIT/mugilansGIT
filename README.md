@@ -1,4 +1,7 @@
-## 👋 Hi there, I'm Mugilan – Aspiring Data Analyst & AI Enthusiast
+## 👋 Hi there, I'm Mugilan 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C853&width=600&lines=Aspiring+Data+Analyst+%26+AI+Enthusiast" />
+</p>
 
 
 
