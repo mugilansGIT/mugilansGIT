@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mugilan 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C853&width=600&lines=Aspiring+AI+and+%26+ML+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C853&width=600&lines=Aspiring+AI+%26+ML+Engineer" />
 </p>
 
 
