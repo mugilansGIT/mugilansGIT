@@ -104,18 +104,15 @@ AI-powered lip reading system that converts silent videos into text transcripts 
 
 ## 📜 Certifications
 
-* 🎓 Data Science & Machine Learning Internship Certification – YBI Foundation
-* 🎓 Elite Certificate – Software Testing, NPTEL
+*  Data Science & Machine Learning Internship Certification – YBI Foundation
+*  Elite Certificate – Software Testing, NPTEL
+* AI And ML Certification — TNS India Foundation
+* Foundational Course on Applied Machine Learning and AI — CII & HP Centre for AI
 
 ---
-<br> <br>
-
-## 📊 GitHub Statistics
+<br> 
 
 
-<br>
-
-[![Mugilan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mugilansGIT\&bg_color=000000\&color=ffffff\&line=00ff00\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
