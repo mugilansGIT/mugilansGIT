@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mugilan 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C853&width=600&lines=Aspiring+Data+Analyst+%26+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C853&width=600&lines=Aspiring+AI+and+%26+ML+Engineer" />
 </p>
 
 
@@ -11,9 +11,10 @@
 
 ## 👨‍💻 About Me
 
-Aspiring Data Analyst and AI Enthusiast passionate about building intelligent applications using Machine Learning, Computer Vision, and Data Analytics.
+Aspiring AI Engineer and AI Enthusiast passionate about building intelligent applications using Generative AI, Machine Learning, Computer Vision, and Python.
 
-Currently exploring DSA, AI-powered workflows, and real-world ML projects.
+Currently exploring LLMs, RAG, AI Agents, DSA, and real-world AI projects.
+
 
 
 🎓 B.Tech Artificial Intelligence & Data Science Student at
